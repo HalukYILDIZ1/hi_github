@@ -1,3 +1,3 @@
 # hi_github
 ## Alt baslik
-### bu bir git hub a baslama uygulamasidir
+### Bu bir Github a baslama uygulamasidir
